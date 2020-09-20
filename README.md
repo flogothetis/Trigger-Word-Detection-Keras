@@ -31,5 +31,3 @@ Trigger_word_detection_v1a.ipynb
 ```
 
 Finally, run all cells 
-
-# Trigger-Word-Detection-TensorFlow
